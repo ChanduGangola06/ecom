@@ -1,4 +1,4 @@
-import 'package:ecom/models/page_view_model.dart';
+import 'package:ecom/utils/models/page_view_model.dart';
 import 'package:ecom/pages/auth/login_page.dart';
 import 'package:ecom/pages/splash/widgets/intro_view.dart';
 import 'package:ecom/utils/screen_utils.dart';

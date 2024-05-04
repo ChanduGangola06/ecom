@@ -4,7 +4,16 @@ import 'dart:async';
 import 'dart:math';
 
 import 'package:ecom/constants/app_colors.dart';
-import 'package:ecom/models/page_view_model.dart';
+import 'package:ecom/utils/animation_gesture/animated_page_dragger.dart';
+import 'package:ecom/utils/animation_gesture/page_dragger.dart';
+import 'package:ecom/utils/animation_gesture/page_reveal.dart';
+import 'package:ecom/utils/models/page_view_model.dart';
+import 'package:ecom/utils/constants/constants.dart';
+import 'package:ecom/utils/models/pager_indicator_view_model.dart';
+import 'package:ecom/utils/models/slide_update_model.dart';
+import 'package:ecom/utils/ui/page.dart';
+import 'package:ecom/utils/ui/page_indicator.dart';
+import 'package:ecom/utils/ui/page_indicator_buttons.dart';
 import 'package:flutter/material.dart';
 
 class IntroView extends StatefulWidget {

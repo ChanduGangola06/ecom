@@ -5,7 +5,7 @@ late Size screenSize;
 double defaultScreenWidth = 400.0;
 double defaultScreenHeight = 810.0;
 
-class Constants {
+class Constant {
   static double screenWidth = defaultScreenWidth;
   static double screenHeight = defaultScreenHeight;
 

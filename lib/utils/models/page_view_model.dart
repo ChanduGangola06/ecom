@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../utils/screen_utils.dart';
+import '../screen_utils.dart';
 
 class PageViewModel {
   final Color? pageColor;

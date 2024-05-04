@@ -14,6 +14,7 @@ dependencies:
   cupertino_icons: ^1.0.6
   flutter_screenutil: ^5.9.0
   dots_indicator: any
+  google_mobile_ads: ^5.0.0
 
 dev_dependencies:
   flutter_test:
