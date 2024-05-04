@@ -1,4 +1,4 @@
-import 'package:ecom/presentation/pages/splash/splash_page.dart';
+import 'package:ecom/pages/splash/splash_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {

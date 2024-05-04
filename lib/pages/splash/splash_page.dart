@@ -3,7 +3,7 @@
 import 'dart:async';
 import 'dart:math';
 
-import 'package:ecom/presentation/pages/auth/login_page.dart';
+import 'package:ecom/pages/auth/login_page.dart';
 import 'package:flutter/material.dart';
 
 class SpritePainter extends CustomPainter {

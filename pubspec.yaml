@@ -12,6 +12,8 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.6
+  flutter_screenutil: ^5.9.0
+  dots_indicator: any
 
 dev_dependencies:
   flutter_test:
